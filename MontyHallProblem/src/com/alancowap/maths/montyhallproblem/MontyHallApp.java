@@ -8,8 +8,8 @@
  * @author Alan Cowap
  * @date 20170317 (17-March-2017)
  * @version 1.0
- * @see <a gref-"http://www.alancowap.com/2017/03/22/monty-hall-problem/">Monty Hall Problem</a>
- * @see <a gref-"http://www.alancowap.com/2017/03/22/monty-hall-problem-advanced/">Monty Hall Problem - Advanced</a>
+ * @see <a href-"http://www.alancowap.com/2017/03/22/monty-hall-problem/">Monty Hall Problem</a>
+ * @see <a href-"http://www.alancowap.com/2017/03/22/monty-hall-problem-advanced/">Monty Hall Problem - Advanced</a>
  * 
  */
 package com.alancowap.maths.montyhallproblem;
