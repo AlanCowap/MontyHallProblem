@@ -9,7 +9,7 @@
  * @date 20170317 (17-March-2017)
  * @version 1.0
  * @see <a href-"http://www.alancowap.com/2017/03/22/monty-hall-problem/">Monty Hall Problem</a>
- * @see <a href-"http://www.alancowap.com/2017/03/22/monty-hall-problem-advanced/">Monty Hall Problem - Advanced</a>
+ * @see <a href-"http://www.alancowap.com/2017/03/23/monty-hall-solution-advanced/">Monty Hall Solution</a>
  * 
  */
 package com.alancowap.maths.montyhallproblem;
