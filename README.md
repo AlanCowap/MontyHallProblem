@@ -4,6 +4,7 @@ This code relates to my blog post <a href="http://www.alancowap.com/2017/03/22/m
 And the follow-on blog post <a href="http://www.alancowap.com/2017/03/23/monty-hall-solution-advanced/">Monty Hall Solution - Advanced</a>
 <br>
 And the latest blog post <a href="http://www.alancowap.com/2018/05/02/monty-hall-proof-the-formula/">Monty Hall Proof – The Formula</a><br>
+Play my Monty Hall Game on your Android device -<a href="https://play.google.com/store/apps/details?id=com.alancowap.apps.montyhallgame">Monty Hall Game</a> - and see for yourself while having fun!<br>
 Happy coding<br>
 Alan
 <br><br>
